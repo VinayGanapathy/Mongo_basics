@@ -1,1 +1,1 @@
-# MongoDB Baiscs
+# MongoDB Basics
